@@ -4,6 +4,8 @@ This is a PHP based proxy running in a CentOS 7 container
 
 I stole the idea from the pirate bay proxy scripts :-)
 
+It's not working anymore, i need some time to fix it..
+
 ## Usage
 
 docker create \
